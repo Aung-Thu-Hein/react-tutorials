@@ -1,6 +1,6 @@
 # React Projects
 
-- I've made some react projects that covers basic concept of react and some advance concepts.
+- I've made some react projects that cover basic concept of react and some advance concepts.
 
 - The source of all these projects come from the following links
 
