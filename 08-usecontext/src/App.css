@@ -1,0 +1,15 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.btnWrap {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.singleBtnWrap {
+  display: flex;
+  flex-direction: column;
+}
