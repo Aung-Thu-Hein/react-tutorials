@@ -1,8 +1,16 @@
-# React Projects
+# React Tutorials
 
-- I've made some react projects that cover basic concept of react and some advance concepts.
+- I made react tutorials that include following topic
 
-- The source of all these projects come from the following links
+- 1. Form handling
+- 2. Dark Mode using toggle switch
+- 3. Form handling using react-hook-form and yup validation 
+- 4. Atomic Design 
+- 5. useReducer hook
+- 6. State management with redux-toolkit
+- 7. useContext hook
+- 8. Higher Order Component
 
-- https://www.freecodecamp.org/news/javascript-projects-for-beginners/
+- Project number 02 and 03 is from following link
+
 - https://github.com/john-smilga/react-projects
